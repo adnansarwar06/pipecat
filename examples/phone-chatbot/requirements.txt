@@ -1,5 +1,9 @@
-pipecat-ai[daily,cartesia,deepgram,openai,google,silero]
 fastapi==0.115.6
 uvicorn
 python-dotenv
 python-multipart
+twilio
+edge-tts
+pydantic-settings
+pipecat
+
